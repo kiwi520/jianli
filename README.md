@@ -47,8 +47,8 @@
    > 参与pc官网的改版升级，移动端的开发工作，熟练掌握laravel框架开发项目，开发文档编写，git版本控制，linux下nginx php开发环境配置等。。。。
 
 ### 自己项目（国外服务器访问可能有点慢）
-   >（1）用golang 迭代了自己的博客，前后端分离，前端用的vue，后端beego [博客网址](http://www.kiwi520.me/)
+   >（1）用golang 迭代了自己的博客，前后端分离，前端用的vue，后端beego [http://www.kiwi520.me/](http://www.kiwi520.me/)
    
-   >（2) 用 golang websocket开发了个聊天室 （代码托管在GitHub上）
+   >（2) 用 golang websocket开发了个聊天室 [https://github.com/kiwi520/go-simple-chat](https://github.com/kiwi520/go-simple-chat)
  
-   >（3）开发了一个短视频小站，前端vue，后端php ，api nodejs [视频小站网址](http://v.kiwi520.me/)【手机端请使用Chrome 或者UC浏览器 原因video标签兼容性问题】
+   >（3）开发了一个短视频小站，前端vue，后端php ，api nodejs [http://v.kiwi520.me/](http://v.kiwi520.me/)【手机端请使用Chrome 或者UC浏览器 原因video标签兼容性问题】
