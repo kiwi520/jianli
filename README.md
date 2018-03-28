@@ -49,6 +49,6 @@
 ### 自己项目（国外服务器访问可能有点慢）
    >（1）用golang 迭代了自己的博客，前后端分离，前端用的vue，后端beego [博客网址](http://www.kiwi520.me/)
    
-   >  (2) 用 golang websocket开发了个聊天室 （代码托管在GitHub上）
+   >（2) 用 golang websocket开发了个聊天室 （代码托管在GitHub上）
  
    >（3）开发了一个短视频小站，前端vue，后端php ，api nodejs [视频小站网址](http://v.kiwi520.me/)【手机端请使用Chrome 或者UC浏览器 原因video标签兼容性问题】
